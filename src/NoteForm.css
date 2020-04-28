@@ -1,0 +1,21 @@
+.Notecard {
+	height: 20rem;
+	width: 100%;
+	background-color: #fff;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, .3);
+}
+
+.Notecard-new {
+	width: 100%;
+	display: flex;
+	margin: 0px;
+	outline: none;
+	border: none;
+	padding: 1.5rem;
+	resize: none;
+	letter-spacing: inherit;
+}
+
+.Notecard button {
+	border-radius: 0;
+}
